@@ -5,5 +5,3 @@ GÓMEZ GÓMEZ Alan Alberto
 OROZCO REYES Marcos Ivan
 RIOS MENA Gustavo Vladimir
 PEREZ MORALES Lorenzo Ramón
-
-## Requisitos:
