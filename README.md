@@ -6,6 +6,6 @@
 * 203450 RIOS MENA Gustavo Vladimir
 * 203427 PÉREZ MORALES Lorenzo Ramón
 
-## Rutas de la parte de notación:
+## Rutas de la parte de Notación:
 * FrontEnd: https://github.com/203429/LyA_Proyecto3erCorte/tree/main/Repositorio/automatas-frontend-notacion/src/components/modules/notacion
 * Backend: https://github.com/203429/LyA_Proyecto3erCorte/tree/main/Repositorio/automatas-backend-notacion/notacion
