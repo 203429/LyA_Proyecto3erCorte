@@ -1,4 +1,4 @@
-# LyA_Proyecto3erCorte - Equipo 1 - Notación
+# Equipo 1 - Tema : Notación
 
 ## Integrantes:
 * 203429 GÓMEZ GÓMEZ Alan Alberto
